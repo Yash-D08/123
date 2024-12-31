@@ -1,2 +1,3 @@
-this is my first repositary 
-author - Yash Dhongade 
+this is my first  Git Repositary 
+<br>
+Author - Yash Dhongade 
